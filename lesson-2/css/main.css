@@ -3,6 +3,24 @@
 //  MAIN CSS FILE [ HEADER ]
 // ==========================================================================
 **/
+<style>
 
+  .wrapper {
+  	background-color: lightcyan;
+  	margin: 20px;
+  	padding: 10px;
+  }
+  .main {
+  	background-color: lightgoldenrodyellow;
+  	padding: 15px;
+  }
+  .sidebar {
+  	background-color: lightgreen;
+  	border: 2px solid red;
+  	padding: 15px;
+  }
+
+
+</style>
 
 /* CSS FILE COMMENTS [ INLINE ] */
