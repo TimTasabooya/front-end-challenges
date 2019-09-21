@@ -6,9 +6,10 @@
 <style>
 
   .wrapper {
-  	background-color: lightcyan;
-  	margin: 20px;
-  	padding: 10px;
+	  background-color: lightcyan;
+  	  margin: 20px;
+	  padding: 10px;
+	  display: flex;
   }
   .main {
   	background-color: lightgoldenrodyellow;
